@@ -197,7 +197,7 @@ def main():
             pipe.move()
         if add_pipe:
             score += 1
-            pipes.append(Pipe(600))
+            pipes.append(Pipe(700))
 
         for r in rem:
             pipes.remove(r)
