@@ -1,6 +1,6 @@
 # IA_flappy_bird
 
-The goal of this project is to learn how to use git/github and try to understant NEAT in python.
+The goal of this project is to learn how to use git/github and try to understand NEAT (Neuroevolution of augmenting topologies) in python.
 In the same time, i'll create my first game and AI.
 
 I stocked my sprite in imgs
